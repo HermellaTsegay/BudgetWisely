@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BudgetWisely/static/css/main.ad4bbdcc.css",
-    "main.js": "/BudgetWisely/static/js/main.b4fdd70d.js",
+    "main.js": "/BudgetWisely/static/js/main.8f2a2dd0.js",
     "static/js/453.cbd26383.chunk.js": "/BudgetWisely/static/js/453.cbd26383.chunk.js",
     "index.html": "/BudgetWisely/index.html",
     "main.ad4bbdcc.css.map": "/BudgetWisely/static/css/main.ad4bbdcc.css.map",
-    "main.b4fdd70d.js.map": "/BudgetWisely/static/js/main.b4fdd70d.js.map",
+    "main.8f2a2dd0.js.map": "/BudgetWisely/static/js/main.8f2a2dd0.js.map",
     "453.cbd26383.chunk.js.map": "/BudgetWisely/static/js/453.cbd26383.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4bbdcc.css",
-    "static/js/main.b4fdd70d.js"
+    "static/js/main.8f2a2dd0.js"
   ]
 }
