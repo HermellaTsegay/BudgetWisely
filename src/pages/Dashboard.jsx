@@ -83,7 +83,8 @@ const Dashboard = () => {
         <div className="d-flex justify-content-between align-items-center mb-5">
           <div>
             <h1 className="fw-bold text-primary display-5 d-flex align-items-center">
-            <img src="/logo.svg" alt="BudgetWisely Logo" style={{ width: "220px", height: "auto" }} />
+            <img   src={`${process.env.PUBLIC_URL}/logo.svg`}
+ alt="BudgetWisely Logo" style={{ width: "220px", height: "auto" }} />
             </h1>
             <p className="text-muted mb-0 fs-6">Welcome, {user?.email || "Guest"}</p>
           </div>
